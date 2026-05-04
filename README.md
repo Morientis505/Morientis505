@@ -40,11 +40,11 @@ Systems Analyst and Co-founder of **Aliento Tech Studios**. Specialized in engin
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morientis505&show_icons=true&theme=tokyonight&count_private=true" alt="Samuel's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morientis505&theme=tokyonight" alt="Detailed Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morientis505&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Morientis505&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
