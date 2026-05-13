@@ -1,4 +1,4 @@
-# 🚀 Mori Vera | Full-Stack Developer & Tech Architect
+# 🚀 Samuel Vera | Full-Stack Developer & Tech Architect
 
 Systems Analyst and Co-founder of **[Aliento Tech Studios](https://github.com/Aliento-Tech-Studios)**. Specialized in engineering high-performance web applications, robust digital infrastructures, and secure network architectures.
 
