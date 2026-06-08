@@ -58,15 +58,6 @@ telecommunications technician, junior dev (Learning powered by IA... A bit of Vi
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morientis505&theme=tokyonight" alt="Detailed Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Morientis505&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 * **Organization:** [Aliento Tech Studios](https://github.com/Aliento-Tech-Studios)
 * **Email:** [samuel.vera@alientotechstudios.com](mailto:samuel.vera@alientotechstudios.com)
