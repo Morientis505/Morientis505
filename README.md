@@ -1,6 +1,6 @@
 # 🚀 Samuel Vera | Full-Stack Developer & Tech Architect
 
-Systems Analyst and Co-founder of **[Aliento Tech Studios](https://github.com/Aliento-Tech-Studios)**. Specialized in engineering high-performance web applications, robust digital infrastructures, and secure network architectures.
+telecommunications technician, junior dev (Learning powered by IA... A bit of Vibecoder) and Co-founder of **[Aliento Tech Studios](https://alientotechstudios.com)**. Specialized in engineering high-performance web applications, robust digital infrastructures, and secure network architectures.
 
 ---
 
