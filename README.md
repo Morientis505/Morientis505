@@ -4,11 +4,19 @@ telecommunications technician, junior dev (Learning powered by IA... A bit of Vi
 
 ---
 
+### 🧠 Core Philosophy
+* **Perfection as Standard:** We don't believe in "good enough." Every system, from database schema to routing table, is polished for maximum efficiency and security.
+* **Agility with Precision:** We maintain high-velocity development cycles without compromising the integrity of the code. Fast iteration, flawless execution.
+* **Bespoke Engineering:** No "enlatados." Every solution is tailor-made to solve specific business bottlenecks, ensuring the architecture evolves with the client.
+* **AI-Augmented Architecture:** Leveraging advanced AI agents to optimize system monitoring, predictive auditing, and rapid prototyping.
+
+---
+
 ### 💻 Core Tech Stack
 
 #### Frontend & Core Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16" /> 
+  <img src="https://img.shields.io/badge/next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16" /> 
   <img src="https://img.shields.io/badge/react-19-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React 19" />
   <img src="https://img.shields.io/badge/tailwindcss-4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS 4" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -25,28 +33,28 @@ telecommunications technician, junior dev (Learning powered by IA... A bit of Vi
 #### Infrastructure, Cybersecurity & OS
 <p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Wazuh_SIEM-00AEEF?style=for-the-badge&logo=linux&logoColor=white" alt="Wazuh SIEM" />
+  <img src="https://img.shields.io/badge/MikroTik-595959?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
 </p>
 
 ---
 
 ### 🏗️ Strategic Projects
 
-*   **Dubbing Forward:** Architecting an end-to-end workflow management system tailored for the dubbing industry to streamline production cycles and secure asset tracking.
-*   **Retail Infrastructure Ecosystem:** Engineering specialized auditing and technical reporting tools designed to monitor, manage, and scale checkout hardware across high-volume retail branches.
-*   **Business Solutions:** Deploying dynamic landing pages and custom management systems for local enterprises (e.g., Sushi Poke Maracay), utilizing **React 19** for strictly optimized performance.
-*   **AI Agent Architectures:** Developing hybrid logic structures for automated task management and proactive system monitoring using local LLM inference.
+* **Dubbing Forward:** Architecting an end-to-end workflow management system for the dubbing industry.
+* **Retail Ecosystem:** Technical auditing and monitoring tools for large-scale retail hardware management.
+* **Business Solutions:** High-performance web applications using **React 19** for local and international enterprises.
+* **AI Agent Architectures:** Building hybrid logic structures for proactive, automated system monitoring.
 
 ---
 
 ### 🛡️ Development & Security Philosophy
 
-*   **Defensive Security & Monitoring:** Deploying and managing SIEM solutions (Wazuh) for advanced threat detection, real-time auditing, and secure agent enrollment across distributed Linux environments.
-*   **Network Standardization:** Implementing strict IP schemas, VPN tunneling, and OSPF routing standards across organizational networks using MikroTik hardware to ensure 99.9% fault-tolerant uptime.
-*   **Performance Optimization:** Prioritizing Server-Side Rendering (SSR) and Core Web Vitals to guarantee sub-second load times in enterprise-grade environments.
-*   **Scalable Architecture:** Building with a "Modular-First" approach, ensuring that every piece of software can sustainably evolve alongside the expanding business needs of **Aliento Tech Studios**.
+* **Hardened Security:** Deploying Wazuh SIEM/XDR for threat detection and proactive auditing across distributed environments.
+* **Network Reliability:** Establishing 99.9% uptime with OSPF routing and standardized VPN tunneling via MikroTik.
+* **Performance-First:** Optimizing for Core Web Vitals and sub-second load times using Server-Side Rendering (SSR).
+* **Modular Scalability:** Building with a "Modular-First" approach, ensuring long-term sustainability for every client.
 
 ---
 
@@ -60,6 +68,6 @@ telecommunications technician, junior dev (Learning powered by IA... A bit of Vi
 ---
 
 ### 📫 Connect with Me
-*   **Organization:** [Aliento Tech Studios](https://github.com/Aliento-Tech-Studios)
-*   **Email:** [samuel.vera@alientotechstudios.com](mailto:samuel.vera@alientotechstudios.com)
-*   **Location:** Maracay, Venezuela
+* **Organization:** [Aliento Tech Studios](https://github.com/Aliento-Tech-Studios)
+* **Email:** [samuel.vera@alientotechstudios.com](mailto:samuel.vera@alientotechstudios.com)
+* **Location:** Based in Maracay, Venezuela. Delivering globally.
